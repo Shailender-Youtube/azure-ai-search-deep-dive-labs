@@ -1,0 +1,7 @@
+# Core Azure packages
+azure-search-documents
+azure-identity
+azure-storage-blob
+
+# HTTP client
+requests
